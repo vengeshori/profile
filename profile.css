@@ -342,6 +342,12 @@
         margin-bottom:0;
         color:rgba(0,0,0,.7);
     }
+	.menu-text a{
+		color:black;
+		border-bottom:1px solid black;
+		text-decoration:none;
+		font-size:10px;
+	}
     .consept{
         width:100%;
         overflow:hidden;
@@ -730,6 +736,12 @@
         margin-bottom:0;
         color:rgba(0,0,0,.7);
     }
+	.menu-text a{
+		color:black;
+		border-bottom:1px solid black;
+		text-decoration:none;
+		font-size:10px;
+	}
     .consept{
         width:100%;
         overflow:hidden;
@@ -966,36 +978,7 @@ body{
 .menu li{
     border:none;
 }
-/*
-.viewmore{
-    padding:5px 20px;
-    border:1px solid;
-    position:absolute;
-    bottom:40px;
-    left:50%;
-    transform:translateX(-50%)scale(1);
-    font-weight:1;
-    top:;
-    transition:.5s;
-    opacity:1;
-    color:black;
-    background-color:rgba(255,255,255,.1);
-}
 
-.viewmore-1{
-    padding:5px 20px;
-    border:1px solid;
-    transform:scale(1);
-    position:absolute;
-    bottom:40px;
-    left:50%;
-    transform:translateX(-50%)scale(1);
-    font-weight:1;
-    color:white;
-    background-color:rgba(0,0,0,.3);
-    transition:.5s;
-    opacity:1;
-}*/
 
 .menu-text{
     margin:0;
@@ -1004,30 +987,6 @@ body{
 }
 
 
-
-
-
-
-
-
-
-
-/*
-.menu-1{
-    background-image:url(menu-1.jpg);
-    background-position:center;
-    background-size:100%;
-}
-.menu-2{
-    background-image:url(menu-2.jpg);
-    background-position:center;
-    background-size:100%;
-}
-.menu-3{
-    background-image:url(menu-3.jpg);
-    background-position:center;
-    background-size:100%;
-}*/
 /*history*/
 .history{
     width:100%;
